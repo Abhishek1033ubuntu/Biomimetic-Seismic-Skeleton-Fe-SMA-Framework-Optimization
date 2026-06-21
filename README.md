@@ -10,32 +10,30 @@ A high-performance, cost-optimized structural reinforcement system designed for 
 
 ---
 
-## 📊 Analytical & Empirical Model Verification
-
 ### 1. Phenomenological Superelastic Hysteresis
 The phenomenological model captures the reversible, stress-induced solid-state Martensitic phase transformation ($\text{Austenite } \gamma \leftrightarrow \text{ Martensite } \epsilon$) defining our alloy framework. The wide flag-loop captures an energy dissipation efficiency of approximately 60% while returning flawlessly to 0% residual drift upon cyclic unloading.
 
-*Insert your saved image `image_0b6aac.png` right here in your repository documentation.*
+![Phenomenological Superelastic Hysteresis](image_0b6aac.png)
 
 ### 2. Geometric Stress Redistribution
 Traditional right-angle beam-column junctions experience a severe localized stress peak (~1,500 MPa) under seismic loading, drastically overshooting the ultimate capacity limit of standard structural steel. The non-linear flared boundary spreads the load vector evenly, keeping stress levels comfortably within the high-performance alloy's threshold.
 
-*Insert your saved image `image_0af993.png` right here in your repository documentation.*
+![Geometric Stress Redistribution](image_0af993.png)
 
 ### 3. Macro-Structural Seismic Response (1940 El Centro Baseline)
 Subjected to chaotic, multi-frequency real-world ground acceleration, standard rigid frames accumulate permanent deformation and enter runaway structural failure within the first 5 seconds. The simulated biomimetic SMA network attenuates the shock instantly, flatlining lateral building displacement well below the critical 1.5% structural hazard code ceiling.
 
-*Insert your saved image `image_09b31f.png` right here in your repository documentation.*
+![Macro-Structural Seismic Response](image_09b31f.png)
 
 ### 4. Metallurgical Casting Thermal Profile
 To solve cooling non-uniformity across the varying thicknesses of the organic node, a transient directional solidification model was verified. By applying automated chill lines, the thick core mass and thin flared ends cross the solidus transition line simultaneously, completely eliminating internal shrinkage cavities and cracking.
 
-*Insert your saved image `image_0a7e35.png` right here in your repository documentation.*
+![Metallurgical Casting Thermal Profile](image_0a7e35.png)
 
 ### 5. Multi-Cycle Functional Fatigue Horizon
 Tracking performance degradation across 100 continuous maximum-strain impacts shows that the alloy stabilizes asymptotically. Over a 50-year horizon experiencing multiple severe shocks, the maximum accumulated residual drift is restricted to $\le 0.60\%$, certifying an operational structural lifecycle exceeding 200 years.
 
-*Insert your saved image `image_09b71f.png` right here in your repository documentation.*
+![Multi-Cycle Functional Fatigue Horizon](image_09b71f.png)
 
 ---
 
