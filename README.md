@@ -37,4 +37,15 @@ Tracking performance degradation across 100 continuous maximum-strain impacts sh
 
 ---
 
-## 🛠️ Repository Directory Roadmap
+├── README.md               <- Master technical overview & visual validation
+├── micro_simulation/       <- Predictive material hysteresis & cyclic fatigue models
+├── macro_simulation/       <- Time-history structural frame seismic solvers
+└── thermal_modelling/      <- Transient directional solidification tools
+
+## 📜 License & Intellectual Property Disclaimer
+
+This repository's simulation scripts are licensed under the **MIT License**. You are free to modify and share the code framework. 
+
+**CRITICAL NOTICE:** The core manufacturing blueprints, exact metallurgical heat-treatment soaking profiles, proprietary chemical micro-alloy configurations, and precise casting mold CAD data are **not** included in this repository. All industrial manufacturing and commercial production rights regarding the physical implementation of the Fe-24Mn-5.5Si biomimetic joint nodes are proprietary and reserved by the author. 
+
+For commercial licensing, manufacturing partnerships, or access to the full engineering data package, please contact the repository owner.
