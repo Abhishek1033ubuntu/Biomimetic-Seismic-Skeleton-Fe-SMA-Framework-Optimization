@@ -39,7 +39,11 @@ Our latest multi-variable parameter sweep successfully isolated the engineering 
 
 ## 🛠️ Repository Architecture  Biomimetic-Seismic-Skeleton-Fe-SMA-Framework-Optimization/
 ├── docs/                 # High-level technical briefs, performance indicators, and whitepapers
+
 ├── macro_simulation/     # Closed structural response metrics and drift domain parameters
+
 ├── micro_simulation/     # Proprietary SMA hysteresis loop models and stress transformation constraints
+
 └── thermal_modelling/    # Casting, solidification solvers, and phase cooling parameters
+
 *Note: The underlying simulation executables and mathematical solvers are proprietary assets and are withheld from the public domain.*
