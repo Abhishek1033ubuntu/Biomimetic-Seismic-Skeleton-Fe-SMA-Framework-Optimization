@@ -1,6 +1,9 @@
 # Biomimetic Seismic Skeleton: Fe-SMA Framework Optimization
+
 ---
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21537441.svg)](https://doi.org/10.5281/zenodo.21537441) ![Status](https://img.shields.io/badge/Status-Research_POC-orange) ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
+
 ---
 A high-performance, cost-optimized structural reinforcement system designed for diverse building profiles in varied seismic risk zones. By combining non-linear biomimetic node geometry with low-cost, optimized Iron-Manganese-Silicon Shape Memory Alloy (Fe-SMA) networks, this architecture eliminates the need for top-heavy mechanical tuned mass dampers. It safely absorbs and dissipates seismic energy entirely within the structural frame.
 
