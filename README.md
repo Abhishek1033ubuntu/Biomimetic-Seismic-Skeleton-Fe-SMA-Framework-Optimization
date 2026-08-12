@@ -1,6 +1,5 @@
 # Biomimetic Seismic Skeleton: Fe-SMA Framework Optimization
 
----
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21537441.svg)](https://doi.org/10.5281/zenodo.21537441) ![Status](https://img.shields.io/badge/Status-Research_POC-orange) ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
 
@@ -50,3 +49,4 @@ Our latest multi-variable parameter sweep successfully isolated the engineering 
 └── thermal_modelling/    # Casting, solidification solvers, and phase cooling parameters
 
 *Note: The underlying simulation executables and mathematical solvers are proprietary assets and are withheld from the public domain.*
+_*Note on References & IP: Detailed citations and literature references are restricted to protect Intellectual Property. See References.md for details or to request access._
